@@ -1,2 +1,2 @@
 # AWS
-This A summury of AWS Fundementals on Coursera
+This a summary of AWS fundamentals specialization on coursera
