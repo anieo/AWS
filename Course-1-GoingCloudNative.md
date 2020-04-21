@@ -24,7 +24,9 @@ It's a simple service that has a bunch of pre-built services for quick setup.
 ### Amazon EC2:
 It's a resizable compute service on the cloud for application to run on.
 It's a virtual server called `EC2 instance`.
+
 ---
+
 # module 3:
 ## VPC:
 `"Virtual private Cloud"` used to isolate your application from other applications on AWS.
