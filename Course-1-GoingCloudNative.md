@@ -15,8 +15,8 @@ you can put your application on different availability zones but will be treated
 
 ---
 
-#module 2 :
-##Compute
+ #module 2 :
+## Compute
 compute are services used to run your applications on.
 ### LightSail:
 It's a simple service that has a bunch of pre-built services for quick setup.
@@ -25,7 +25,7 @@ It's a simple service that has a bunch of pre-built services for quick setup.
 It's a resizable compute service on the cloud for application to run on.
 It's a virtual server called `EC2 instance`.
 ---
-#module 3:
+# module 3:
 ## VPC:
 `"Virtual private Cloud"` used to isolate your application from other applications on AWS.
 
