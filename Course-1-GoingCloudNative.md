@@ -15,7 +15,7 @@ you can put your application on different availability zones but will be treated
 
 ---
 
- #module 2 :
+# module 2 :
 ## Compute
 compute are services used to run your applications on.
 ### LightSail:
